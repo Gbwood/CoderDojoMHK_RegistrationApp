@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Rubik, sans-serif;
+    background-color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #56CBF9;
+  }
+  
+  a:visited {
+    color: #3066BE;
+  }

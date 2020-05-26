@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: Rubik, sans-serif;
+}
+
+#NavBar {
+  font-family: Rubik, sans-serif;
+  color: whitesmoke;
+}
+
+.navbar {
+    height: 100px;
+    background-color: #512888;
+    color: whitesmoke;
+    /* margin-bottom: 15px; */
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.header-bar {
+    width: 100%;
+    height: 100px;
+    padding-top: 12px;
+    margin-bottom: 40px;
+    background-color: #512888;
+    
+  }
+  
+  .header-title {
+    font-size: 60px;
+    color: white;
+    margin: 25;
+    text-align: left;
+  }
+
+  
+  
+  .header-btns {
+    width: auto;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    text-align: right;
+  }
+  
+  .header-btn,
+  .header-btn-active {
+    margin-left: 12px;
+    margin-right: 12px;
+    text-align: right;
+  }
+  
+  .header-btn {
+    color: white;
+  }
+  
+  .header-btn-active {
+    color: #B8BCC1;
+  }
+  
+  .header-line {
+    height: 4px;
+    width: auto;
+    background-color: white;
+    position: relative;
+    top: 10px;
+  }
+
+  header {
+    font-family: Rubik, sans-serif;
+  }
